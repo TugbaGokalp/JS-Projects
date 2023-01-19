@@ -11,9 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-image: url(./bg-image.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: rgb(240, 203, 208);
 }
 .container {
   border: 1px solid rgba(128, 128, 128, 0.226);
